@@ -8,7 +8,10 @@ title: Student Blog
 This is about your journey. Start now!!!
 Starting my journey on 8/21
 
-## Overview of Hacks, Study and Tangibles
-Launching chrome from Kasm:  http://127.0.0.1:4000/teacher/
+<img src="Padres Logo.png" alt="Padres Logo">
 
-Save room below for helpful links (when I learn how to do that)
+## Overview of Hacks, Study and Tangibles
+# [My Google Drive](https://drive.google.com/drive/my-drive)
+
+# [Github Account](https://github.com/andrewzcsse/didactic-system)
+
