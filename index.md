@@ -8,10 +8,9 @@ title: Student Blog
 This is about your journey. Start now!!!
 Starting my journey on 8/21
 
-<img src="Padres Logo.png" alt="Padres Logo">
+<img src="images/Padres Logo.png" alt="Padres Logo">
 
 ## Overview of Hacks, Study and Tangibles
 # [My Google Drive](https://drive.google.com/drive/my-drive)
 
 # [Github Account](https://github.com/andrewzcsse/didactic-system)
-
