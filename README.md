@@ -1,8 +1,9 @@
 ## Blog site using GitHub Pages and Jekyll
-> This site is intended for Students.   This is to record plans, complete hacks, and do work for your learnings.
+- This webpage is used for me to record my progress as I learn in csse
 - This can be customized to support computer science as you work through pathway (JavaScript, Python/Flask, Java/Spring)
 - All tangible artifact work is in a _posts or in a _notebooks.  
 - Front matter (aka meta data) in ipynb and md files is used to organize information according to week and column in running web site.
+- Progress will be recorded in notebook
 
 ## GitHub Pages
 All `GitHub Pages` websites are managed on GitHub infrastructure. GitHub uses `Jekyll` to tranform your content into static websites and blogs. Each time we change files in GitHub it initiates a GitHub Action that rebuilds and publishes the site with Jekyll.  

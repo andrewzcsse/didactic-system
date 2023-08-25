@@ -13,6 +13,6 @@ My Freeform Picture
 
 <img src="images/Padres Logo.png" alt="Padres Logo">
 
-## Overview of Hacks, Study and Tangibles
+# Overview of Hacks, Study and Tangibles
 
-# [Github Account](https://github.com/andrewzcsse/didactic-system)
+ [Github Account](https://github.com/andrewzcsse/didactic-system)
